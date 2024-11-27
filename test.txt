@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello world
 Ver1.0
 Hello github
+=======
+Hello world
+>>>>>>> dc65762 (Git fot Window test!)
